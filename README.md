@@ -8,6 +8,7 @@
 - Sistem Kupon Belanja
 - Konfirmasi pembayaran
 - Formulir kontak
+- tracking pengiriman
 dan lain-lain.
 
 ##Hak akses
